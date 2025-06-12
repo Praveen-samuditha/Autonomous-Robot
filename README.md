@@ -72,7 +72,7 @@ Welcome to the repository for our robot built for the **Robot Design and Competi
 ## System Overview and Circuitry
 
 
- <img src="https://github.com/user-attachments/assets/77102576-f819-42c8-9af8-3c651255f063" alt="Circuitry" width="300"/>
+ <img src="https://github.com/user-attachments/assets/77102576-f819-42c8-9af8-3c651255f063" alt="Circuitry" width="500"/>
 
 ---
 
@@ -89,7 +89,9 @@ Our robot is compact and modular:
 - **Mobility**: Dual DC motor system with encoder feedback for precise movement and PID-based control.
 
 ### Initial Mechanical Design
-![image](https://github.com/user-attachments/assets/921d879c-0284-4cc0-802f-2e4686128796)
+
+ <img src="https://github.com/user-attachments/assets/921d879c-0284-4cc0-802f-2e4686128796" alt="Mechanical Design" width="500"/>
+
 
 ---
 
