@@ -185,7 +185,7 @@ Each module in our robot—from motion control to manipulation—has been carefu
 
 
 ## Demo Video
-<iframe width="600" height="345" src="https://youtu.be/30hX-Og9dUU" frameborder="0" allowfullscreen></iframe>
+<iframe width="400" height="225" src="https://youtu.be/30hX-Og9dUU" frameborder="0" allowfullscreen></iframe>
 
 
 
