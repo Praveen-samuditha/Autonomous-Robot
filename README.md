@@ -71,8 +71,8 @@ Welcome to the repository for our robot built for the **Robot Design and Competi
 ---
 ## System Overview and Circuitry
 
-![image](https://github.com/user-attachments/assets/77102576-f819-42c8-9af8-3c651255f063)
 
+ <img src="https://github.com/user-attachments/assets/77102576-f819-42c8-9af8-3c651255f063" alt="Circuitry" width="300"/>
 ---
 
 ## 🧩 Task-by-Task Approach
@@ -192,7 +192,8 @@ During the event, each team must participate in a **30-minute live coding sessio
 
 ---
 ## Team Pixie Bots
-![image](https://github.com/user-attachments/assets/6cd1ae25-c625-4bb7-9760-ebe8e014f4e3)
+<img src="https://github.com/user-attachments/assets/6cd1ae25-c625-4bb7-9760-ebe8e014f4e3" alt="Team Pixie Bots" width="300"/>
+
 
 ---
 ## 📂 Repository Structure
