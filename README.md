@@ -186,7 +186,8 @@ Each module in our robot—from motion control to manipulation—has been carefu
 
 
 ## Demo Video
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/30hX-Og9dUU)
+[![Watch the video](https://github.com/user-attachments/assets/1a71a825-eff3-4f8e-857a-fd69ac0b17a5)](https://youtu.be/30hX-Og9dUU)
+
 
 
 
