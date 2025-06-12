@@ -73,6 +73,7 @@ Welcome to the repository for our robot built for the **Robot Design and Competi
 
 
  <img src="https://github.com/user-attachments/assets/77102576-f819-42c8-9af8-3c651255f063" alt="Circuitry" width="300"/>
+
 ---
 
 ## 🧩 Task-by-Task Approach
@@ -185,7 +186,7 @@ Each module in our robot—from motion control to manipulation—has been carefu
 
 
 ## Demo Video
-<iframe width="400" height="225" src="https://youtu.be/30hX-Og9dUU" frameborder="0" allowfullscreen></iframe>
+[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/30hX-Og9dUU)
 
 
 
