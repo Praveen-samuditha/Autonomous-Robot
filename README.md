@@ -184,6 +184,10 @@ Our robot is compact and modular:
 Each module in our robot—from motion control to manipulation—has been carefully integrated to ensure reliable, autonomous performance across all eight tasks. We focus on **robustness, adaptability, and precision** to complete the Hawkins Interdimensional Challenge.
 
 
+## Demo Video
+<iframe width="600" height="345" src="https://youtu.be/30hX-Og9dUU" frameborder="0" allowfullscreen></iframe>
+
+
 
 ## 🧑‍💻 Live Coding Round
 
