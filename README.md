@@ -69,6 +69,11 @@ Welcome to the repository for our robot built for the **Robot Design and Competi
 - Special Features: Coin drop mechanism, gate detection, line width detection
 
 ---
+## System Overview and Circuitry
+
+![image](https://github.com/user-attachments/assets/77102576-f819-42c8-9af8-3c651255f063)
+
+---
 
 ## 🧩 Task-by-Task Approach
 
@@ -77,10 +82,13 @@ Our robot is designed to autonomously complete each of the 8 tasks in the Hawkin
 ### 🛠️ Mechanical Design
 
 Our robot is compact and modular:
-- **Base Size**: 25 cm × 25 cm
+- **Base Size**: 24 cm × 18 cm
 - **Height**: ~15 cm
-- **Arm Mechanism**: Equipped with a custom-designed mechanical arm capable of gripping, lifting, and placing boxes. The arm performs actions like grabbing/dropping based on pre-programmed sequences.
+- **Arm Mechanism**: Equipped with a custom-designed 2-DOF mechanical arm capable of gripping, lifting, and placing boxes. The arm performs actions like grabbing/dropping based on pre-programmed sequences.
 - **Mobility**: Dual DC motor system with encoder feedback for precise movement and PID-based control.
+
+### Initial Mechanical Design
+![image](https://github.com/user-attachments/assets/921d879c-0284-4cc0-802f-2e4686128796)
 
 ---
 
@@ -183,7 +191,10 @@ During the event, each team must participate in a **30-minute live coding sessio
 
 
 ---
+## Team Pixie Bots
+![image](https://github.com/user-attachments/assets/6cd1ae25-c625-4bb7-9760-ebe8e014f4e3)
 
+---
 ## 📂 Repository Structure
 
 ```bash
